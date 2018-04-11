@@ -9,15 +9,14 @@
     <li>복수전공 경영학과</li>
     <li>부전공 디지털인문예술전공</li>
     <li> 디지털인문에 관심이 많습니다.</li>
-     <p>
-      한림대학교 중앙동아리 춤바람 활동 시절 영상입니다.
+     <p>한림대학교 중앙동아리 춤바람 활동 시절 영상입니다.
     <iframe width="640" height="360" src="http://www.youtube.com/embed/c26e1RaMKvo?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>
   </p>
   동영상은 크롬에서는 작동하지 않습니다. IE로 봐주시면 감사하겠습니다.
   </ol>
   <h1>20141228 이창규</h1>
   <p><a href="https://lcg1225.wixsite.com/mysite" target="_blank" title="html5 specification">이창규</a> 저의 프로필 사이트입니다.  
-  </p>지난 학기에 만든 포트폴리오 웹사이트 입니다.
+ 지난 학기에 만든 포트폴리오 웹사이트 입니다. </p>
 
   <h1>캐나다에 다음학기 교환학생을 떠납니다.</h1>
   <p><a href="https://www.uregina.ca/" target="_blank" title="html5 specification">University of Regina 사이트 보러가기</a> 캐나다에 대해서
