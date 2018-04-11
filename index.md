@@ -9,7 +9,9 @@
     <li>복수전공 경영학과</li>
     <li>부전공 디지털인문예술전공</li>
     <li> 디지털인문에 관심이 많습니다.</li>
-   <iframe width="640" height="360" src="http://www.youtube.com/embed/c26e1RaMKvo?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>
+     <p>
+    <<iframe width="640" height="360" src="http://www.youtube.com/embed/c26e1RaMKvo?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>
+  </p>
    
   </ol>
   <h1>20141228 이창규</h1>
