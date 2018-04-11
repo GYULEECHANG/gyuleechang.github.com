@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+  20141228 이창규 github
+  <meta charset="utf-8">
+</head>
+<body>
+  <ol>
+    <li>주전공 영어영문학과</li>
+    <li>복수전공 경영학과</li>
+    <li>부전공 디지털인문예술전공</li>
+    <li> 디지털인문에 관심이 많습니다.</li>
+  </ol>
+  <h1>20141228 이창규</h1>
+  <p><a href="https://lcg1225.wixsite.com/yoonje" target="_blank" title="html5 specification">이창규</a> 저의 프로필 사이트입니다.  
+  </p>지난 학기에 만든 포트폴리오 웹사이트 입니다.
 
-You can use the [editor on GitHub](https://github.com/GYULEECHANG/gyuleechang.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  <h1>캐나다에 다음학기 교환학생을 떠납니다.</h1>
+  <p><a href="https://www.uregina.ca/" target="_blank" title="html5 specification">University of Regina 사이트 보러가기</a> 캐나다에 대해서
+관심이 많습니다. </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>저의 취미는 축구입니다.</h1>
+ <p><a href="https://www.youtube.com/watch?v=BhIz6N97QyI" target="_blank" title="html5 specification">손흥민 스페셜 보러가기</a> 축구선수 손흥민을 매우 좋아합니다. </p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GYULEECHANG/gyuleechang.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <h1>프로젝트 동영상 </h1>
+  <p><a href="https://www.youtube.com/watch?v=2cLDfevwuEE&t=181s" target="_blank" title="html5 specification">보러가기</a> 저번 수업에 만든 동영상입니다.
+  </p>부족하지만 재밌게 봐주세요.
