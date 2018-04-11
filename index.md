@@ -8,7 +8,7 @@
     <li>주전공 영어영문학과</li>
     <li>복수전공 경영학과</li>
     <li>부전공 디지털인문예술전공</li>
-    <li> 디지털인문에 관심이 많습니다.</li>
+    <li> 디지털인문에 관심이 많습니다.</li> 
      <p>한림대학교 중앙동아리 춤바람 활동 시절 영상입니다.
     <iframe width="640" height="360" src="http://www.youtube.com/embed/c26e1RaMKvo?version=3&vq=highres" frameborder="0" allowfullscreen></iframe><br><br>
   </p>
